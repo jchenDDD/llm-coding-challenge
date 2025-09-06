@@ -11,5 +11,4 @@ CrossEntropy loss and Adam optimizer is used for model training.
 
 During the preprocessing, white noise were added to make the data more resilient.
 
-The final model acheived 98.67% precision. 
-![](img/Screenshot 2025-09-06 at 12.26.05 AM.png)
+The final model acheived 98.67% precision.
